@@ -1,8 +1,3 @@
-# Prompt para CV Profesional en CodePen
-
-Usá este prompt en Gemini para generar tu CV profesional como página web lista para CodePen.
-
----
 
 ## Prompt
 
@@ -24,10 +19,3 @@ Requerimientos técnicos:
 ```
 
 ---
-
-## Cómo usarlo
-
-1. Abrí [Google Gemini](https://gemini.google.com)
-2. Copiá el prompt de arriba
-3. Reemplazá los campos entre `[corchetes]` con tus datos reales
-4. Pegá el código generado en [CodePen](https://codepen.io) → New Pen
